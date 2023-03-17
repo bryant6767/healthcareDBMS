@@ -8,7 +8,7 @@ March 12th, 2023
   Initialize the DB and Tables by running the SQL file "CreateDBandTables.sql"  
   Since each table has a Primary Key, bridge communication between FactTable and dimension tables by running "CreateForeignKey.sql"  
 
-
+## General Information:  
 Pseudo-data was referenced dataset pulls from King County public datasets.  
 
 The Entity Relationship Diagram covers the high-level relationship between entities/dimensions:  
