@@ -1,7 +1,7 @@
-# healthcareDBMS
-### Bryant Nguyen 
-### March 12th, 2023 
-
+# healthcareDBMS  
+Bryant Nguyen  
+March 12th, 2023  
+  
 ## This DBMS is created in preparation for QA / Backend DB Engineer roles through a guided SQL course and uses healthcare pseudo-data.  
 
 ## INIT Instructions:  
